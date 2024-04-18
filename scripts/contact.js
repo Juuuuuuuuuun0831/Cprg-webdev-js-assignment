@@ -11,7 +11,7 @@ function submitButtonClicked()
     let main = document.getElementById('contact-page');
 
     main.classList.add('large-text');
-    main.innerHTML = "Thank your for your message";
+    main.innerHTML = "Thank you for your message";
 
 }
 
